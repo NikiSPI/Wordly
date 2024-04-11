@@ -1,2 +1,2 @@
 # Wordly-Download-Page
-Wordly is the perfect helper for learning foreign languages's vocabulary.
+This is where you can download the Wordly app.

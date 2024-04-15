@@ -1,3 +1,4 @@
 # Wordly
-###Download Page
+### Download Page
+
 This is where you can download the Wordly app.
